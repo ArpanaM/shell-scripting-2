@@ -1,3 +1,3 @@
-#! /bin/bash
+#!/bin/bash
 echo welcome
 echo shellscripting
